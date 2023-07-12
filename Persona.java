@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
+//no le preguntas con que genero se identifica y sus pronombres? malisimo
 public abstract class Persona {
 
     int dni;
